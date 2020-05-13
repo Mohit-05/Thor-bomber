@@ -1,5 +1,6 @@
 #made by Mohit-05 
 #For for educational purpose only
+#sub to w3w3w3
 
 
 
@@ -11,6 +12,7 @@ import time
 
 def banner():
     os.system("clear")
+    print("credits: w3w3w3 thanks ncorbuk <3
     print(colors.BLUE + "THOR BOMBER v1.0")
     print(colors.BLUE + "For Educational Purpose only")
     print(colors.YELLOW + '''                                                          
